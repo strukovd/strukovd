@@ -25,6 +25,10 @@
 					border-radius: 4px;
 					border: 1px solid #f1f1f1;
 				}
+				.skill .progress-skill-section .progess-value {
+					 text-align: right;
+					 margin:.1em 0;
+				}
 				.skill .progress-skill-section .wr-progress-bar .progress-bar {
 					width: 16em;
 					background: #efeff1;
@@ -47,7 +51,7 @@
 						<div class="sill-info" style="font-size: .7em; color: #5a79ed94; border-radius: 50%; border: 1px solid #dbdbdb4f; height: 1.6em; width: 1.6em; text-align: center; cursor: pointer; ">?</div>
 					</div>
 					<div class="progress-skill-section" style="color: #b6c0c2; font-size: .8em;">
-						<div class="progess-value" style="text-align: right;margin-bottom: .1em;">83.88%</div>
+						<div class="progess-value">83.88%</div>
 						<div class="wr-progress-bar">
 							<div class="progress-bar">
 								<div style="width: 83.88%; height: 100%; background: #5a79ed;"></div>
@@ -67,7 +71,7 @@
 						<div class="sill-info" style="font-size: .7em; color: #5a79ed94; border-radius: 50%; border: 1px solid #dbdbdb4f; height: 1.6em; width: 1.6em; text-align: center; cursor: pointer; ">?</div>
 					</div>
 					<div class="progress-skill-section" style="color: #b6c0c2; font-size: .8em;">
-						<div class="progess-value" style="text-align: right;margin-bottom: .1em;">78.12%</div>
+						<div class="progess-value">78.12%</div>
 						<div class="wr-progress-bar">
 							<div class="progress-bar">
 								<div style="width: 78.12%; height: 100%; background: #5a79ed;"></div>
@@ -85,7 +89,7 @@
 						<div class="sill-info" style="font-size: .7em; color: #5a79ed94; border-radius: 50%; border: 1px solid #dbdbdb4f; height: 1.6em; width: 1.6em; text-align: center; cursor: pointer; ">?</div>
 					</div>
 					<div class="progress-skill-section" style="color: #b6c0c2; font-size: .8em;">
-						<div class="progess-value" style="text-align: right;margin-bottom: .1em;">80.00%</div>
+						<div class="progess-value">80.00%</div>
 						<div class="wr-progress-bar">
 							<div class="progress-bar">
 								<div style="width: 80.00%; height: 100%; background: #5a79ed;"></div>
@@ -103,7 +107,7 @@
 						<div class="sill-info" style="font-size: .7em; color: #5a79ed94; border-radius: 50%; border: 1px solid #dbdbdb4f; height: 1.6em; width: 1.6em; text-align: center; cursor: pointer; ">?</div>
 					</div>
 					<div class="progress-skill-section" style="color: #b6c0c2; font-size: .8em;">
-						<div class="progess-value" style="text-align: right;margin-bottom: .1em;">98.31%</div>
+						<div class="progess-value">98.31%</div>
 						<div class="wr-progress-bar">
 							<div class="progress-bar">
 								<div style="width: 98.31%; height: 100%; background: #5a79ed;"></div>
@@ -121,7 +125,7 @@
 						<div class="sill-info" style="font-size: .7em; color: #5a79ed94; border-radius: 50%; border: 1px solid #dbdbdb4f; height: 1.6em; width: 1.6em; text-align: center; cursor: pointer; ">?</div>
 					</div>
 					<div class="progress-skill-section" style="color: #b6c0c2; font-size: .8em;">
-						<div class="progess-value" style="text-align: right;margin-bottom: .1em;">95.80%</div>
+						<div class="progess-value">95.80%</div>
 						<div class="wr-progress-bar">
 							<div class="progress-bar">
 								<div style="width: 95.80%; height: 100%; background: #5a79ed;"></div>
@@ -139,7 +143,7 @@
 						<div class="sill-info" style="font-size: .7em; color: #5a79ed94; border-radius: 50%; border: 1px solid #dbdbdb4f; height: 1.6em; width: 1.6em; text-align: center; cursor: pointer; ">?</div>
 					</div>
 					<div class="progress-skill-section" style="color: #b6c0c2; font-size: .8em;">
-						<div class="progess-value" style="text-align: right;margin-bottom: .1em;">90.00%</div>
+						<div class="progess-value">90.00%</div>
 						<div class="wr-progress-bar">
 							<div class="progress-bar">
 								<div style="width: 90%; height: 100%; background: #5a79ed;"></div>
@@ -185,7 +189,7 @@
 						<div class="sill-info" style="font-size: .7em; color: #5a79ed94; border-radius: 50%; border: 1px solid #dbdbdb4f; height: 1.6em; width: 1.6em; text-align: center; cursor: pointer; ">?</div>
 					</div>
 					<div class="progress-skill-section" style="color: #b6c0c2; font-size: .8em;">
-						<div class="progess-value" style="text-align: right;margin-bottom: .1em;">85.01%</div>
+						<div class="progess-value">85.01%</div>
 						<div class="wr-progress-bar">
 							<div class="progress-bar">
 								<div style="width: 85%; height: 100%; background: #5a79ed;"></div>
@@ -203,7 +207,7 @@
 						<div class="sill-info" style="font-size: .7em; color: #5a79ed94; border-radius: 50%; border: 1px solid #dbdbdb4f; height: 1.6em; width: 1.6em; text-align: center; cursor: pointer; ">?</div>
 					</div>
 					<div class="progress-skill-section" style="color: #b6c0c2; font-size: .8em;">
-						<div class="progess-value" style="text-align: right;margin-bottom: .1em;">93.30%</div>
+						<div class="progess-value">93.30%</div>
 						<div class="wr-progress-bar">
 							<div class="progress-bar">
 								<div style="width: 93.30%; height: 100%; background: #5a79ed;"></div>
@@ -221,7 +225,7 @@
 						<div class="sill-info" style="font-size: .7em; color: #5a79ed94; border-radius: 50%; border: 1px solid #dbdbdb4f; height: 1.6em; width: 1.6em; text-align: center; cursor: pointer; ">?</div>
 					</div>
 					<div class="progress-skill-section" style="color: #b6c0c2; font-size: .8em;">
-						<div class="progess-value" style="text-align: right;margin-bottom: .1em;">76.01%</div>
+						<div class="progess-value">76.01%</div>
 						<div class="wr-progress-bar">
 							<div class="progress-bar">
 								<div style="width: 76%; height: 100%; background: #5a79ed;"></div>
@@ -239,7 +243,7 @@
 						<div class="sill-info" style="font-size: .7em; color: #5a79ed94; border-radius: 50%; border: 1px solid #dbdbdb4f; height: 1.6em; width: 1.6em; text-align: center; cursor: pointer; ">?</div>
 					</div>
 					<div class="progress-skill-section" style="color: #b6c0c2; font-size: .8em;">
-						<div class="progess-value" style="text-align: right;margin-bottom: .1em;">97.07%</div>
+						<div class="progess-value">97.07%</div>
 						<div class="wr-progress-bar">
 							<div class="progress-bar">
 								<div style="width: 97.07%; height: 100%; background: #5a79ed;"></div>
@@ -261,7 +265,7 @@
 						<div class="sill-info" style="font-size: .7em; color: #5a79ed94; border-radius: 50%; border: 1px solid #dbdbdb4f; height: 1.6em; width: 1.6em; text-align: center; cursor: pointer; ">?</div>
 					</div>
 					<div class="progress-skill-section" style="color: #b6c0c2; font-size: .8em;">
-						<div class="progess-value" style="text-align: right;margin-bottom: .1em;">95.50%</div>
+						<div class="progess-value">95.50%</div>
 						<div class="wr-progress-bar">
 							<div class="progress-bar">
 								<div style="width: 95.50%; height: 100%; background: #5a79ed;"></div>
@@ -279,7 +283,7 @@
 						<div class="sill-info" style="font-size: .7em; color: #5a79ed94; border-radius: 50%; border: 1px solid #dbdbdb4f; height: 1.6em; width: 1.6em; text-align: center; cursor: pointer; ">?</div>
 					</div>
 					<div class="progress-skill-section" style="color: #b6c0c2; font-size: .8em;">
-						<div class="progess-value" style="text-align: right;margin-bottom: .1em;">74.21%</div>
+						<div class="progess-value">74.21%</div>
 						<div class="wr-progress-bar">
 							<div class="progress-bar">
 								<div style="width: 74.21%; height: 100%; background: #5a79ed;"></div>
