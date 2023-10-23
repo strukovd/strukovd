@@ -62,10 +62,10 @@
 						<div class="sill-info" style="font-size: .7em; color: #5a79ed94; border-radius: 50%; border: 1px solid #dbdbdb4f; height: 1.6em; width: 1.6em; text-align: center; cursor: pointer; ">?</div>
 					</div>
 					<div class="progress-skill-section" style="color: #b6c0c2; font-size: .8em;">
-						<div class="progess-value" style="text-align: right;margin-bottom: .1em;">51.12%</div>
+						<div class="progess-value" style="text-align: right;margin-bottom: .1em;">78.12%</div>
 						<div class="progress-bar">
 							<div style="width: 16em; background: #efeff1; height: 2px;">
-								<div style="width: 51.12%; height: 100%; background: #5a79ed;"></div>
+								<div style="width: 78.12%; height: 100%; background: #5a79ed;"></div>
 							</div>
 						</div>
 					</div>
@@ -247,7 +247,7 @@
 					<div class="header-skill-section" style="display: flex;">
 						<div class="skill-icon">
 							<svg style="height: 1.6em; fill: #;" xmlns="http://www.w3.org/2000/svg" viewBox="2.61626 0.462977 21.67 21.68">
-								<path fill="#d0d0d0" d="M 13.424 22.144 A 1 1 0 0 0 13.479 0.463 A 1 1 0 0 0 13.424 22.144 Z"/>
+								<path fill="#d0d0d0" stroke="#32475c" d="M 13.424 22.144 A 1 1 0 0 0 13.479 0.463 A 1 1 0 0 0 13.424 22.144 Z"/>
 								<path fill="#222222" d="M 14.764 4.361 L 15.095 7.53 L 11.993 6.614 C 11.927 7.31 11.811 8.026 11.652 8.737 L 14.562 8.967 L 12.654 11.484 C 13.34 11.755 14.01 12.137 14.631 12.515 L 15.826 9.849 L 17.155 12.527 C 17.769 12.129 18.38 11.814 19.067 11.502 L 17.181 8.978 L 20.072 8.736 C 19.935 8.059 19.853 7.359 19.8 6.636 L 16.623 7.533 L 16.95 4.376 C 16.214 4.428 15.487 4.417 14.764 4.361 Z"/>
 								<path fill="#555555" d="M 9.243 18.937 A 1 1 0 0 0 9.243 16.029 A 1 1 0 0 0 9.243 18.937 Z"/>
 							</svg>
