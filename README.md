@@ -1,11 +1,12 @@
-### Hi there 👋
+### Привет 👋
 
-<!-- ![](./assets/animated.svg) -->
-## То что мне знакомо
+## То, что мне знакомо
 ![](./assets/skills.svg)
-<!-- <img src="./assets/skills/javascript.svg"/> -->
 
 <!--
+## Интересные проекты
+## Связь со мной
+
 **strukovd/strukovd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
