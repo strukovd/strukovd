@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 <!-- ![](./assets/animated.svg) -->
-![](./assets/skills/javascript.svg)
+## То что мне знакомо
+![](./assets/skills.svg)
 <!-- <img src="./assets/skills/javascript.svg"/> -->
 
 <!--
