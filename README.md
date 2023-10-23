@@ -2,7 +2,7 @@
 
 <!-- ![](./assets/animated.svg) -->
 ![](./assets/skills/javascript.svg)
-<img src="./assets/skills/javascript.svg"/>
+<!-- <img src="./assets/skills/javascript.svg"/> -->
 
 <!--
 **strukovd/strukovd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
