@@ -5,6 +5,8 @@
 		<div xmlns="http://www.w3.org/1999/xhtml" class="skills">
 			<style>
 				.skills {
+					display: flex;
+					margin: auto;
 					font-family:
 						system-ui,
 						-apple-system,
@@ -15,6 +17,7 @@
 						sans-serif;
 				}
 				.skill {
+					margin:.4em;
 					background:white;
 					cursor: pointer;
 					display: inline-block;
