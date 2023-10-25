@@ -1,7 +1,10 @@
 ### Привет 👋
 
 ## То, что мне знакомо
+image:
 ![](./assets/skills.svg)
+
+embed:
 <embed src="./assets/skills.svg" />
 
 <!--
