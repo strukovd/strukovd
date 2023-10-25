@@ -2,6 +2,7 @@
 
 ## То, что мне знакомо
 ![](./assets/skills.svg)
+<embed src="./assets/skills.svg" />
 
 <!--
 ## Интересные проекты
