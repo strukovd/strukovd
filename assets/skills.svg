@@ -1,6 +1,10 @@
 <svg fill="none" viewBox="0 0 800 400" width="100%" xmlns="http://www.w3.org/2000/svg">
 	<foreignObject width="100%" height="100%">
 
+		<script>
+			console.log( window.getComputedStyle(document.body)['backgroundColor'] );
+		</script>
+
 
 		<div xmlns="http://www.w3.org/1999/xhtml" class="skills">
 			<style>
