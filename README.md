@@ -19,19 +19,20 @@ Frontend:  🥝 **Vue**, 💠 **Vuetify**, 🐉 **Nuxt**<br/>
 
 $${\color{#a0a0a0} ATS-tags}$$
 <p>
-  <kbd>Node.js</kbd> <kbd>NestJS</kbd> <kbd>TypeScript</kbd> <kbd>JWT</kbd> <kbd>Express.js</kbd> <kbd>NPM</kbd> 
+  <kbd>Node.js</kbd> <kbd>NestJS</kbd> <kbd>TypeScript</kbd> <kbd>Express.js</kbd>
   <kbd>Java</kbd> <kbd>Spring Boot</kbd> <kbd>Maven</kbd> <kbd>JPA</kbd> <kbd>Hibernate</kbd> <kbd>Lombok</kbd>
   <kbd>VueJS</kbd> <kbd>Pinia</kbd> <kbd>Vuex</kbd> <kbd>Vuetify</kbd>
-  <kbd>Linux</kbd> <kbd>bash</kbd> <kbd>shell</kbd> <kbd>regexp</kbd> <kbd>ssh</kbd> <kbd>sed</kbd> <kbd>awk</kbd>
+  <kbd>Linux</kbd> <kbd>GNU Bash</kbd> <kbd>shell</kbd> <kbd>regexp</kbd> <kbd>ssh</kbd> <kbd>sed</kbd> <kbd>awk</kbd>
   <kbd>Vscode</kbd> <kbd>Chrome</kbd> <kbd>Telegram</kbd> <kbd>Git</kbd>
   <kbd>Jira</kbd> <kbd>Confluence</kbd> <kbd>Bitbucket</kbd>
   <kbd>Script Runner</kbd> <kbd>MyGroovy</kbd> <kbd>Atlassian SDK</kbd>
-  <kbd>SQL</kbd> <kbd>MSSQL</kbd> <kbd>Postgresql</kbd> <kbd>Mysql</kbd> <kbd>SQLite</kbd>
+  <kbd>SQL</kbd> <kbd>MSSQL</kbd> <kbd>Microsoft SQL Server</kbd> <kbd>Transact-SQL</kbd> <kbd>PostgreSQL</kbd> <kbd>MySQL</kbd> <kbd>SQLite</kbd>
   <kbd>ORM</kbd> <kbd>MongoDB</kbd>
-  <kbd>Docker</kbd>
+  <kbd>Docker</kbd> <kbd>Grafana</kbd> <kbd>NGINX</kbd>
   <kbd>PHP</kbd> <kbd>Laravel</kbd>
-  <kbd>HTML5</kbd> <kbd>CSS3</kbd> <kbd>SCSS</kbd>
-  <kbd>gRPC</kbd> <kbd>REST</kbd>
+  <kbd>HTML5</kbd> <kbd>CSS3</kbd> <kbd>SCSS</kbd> <kbd>SVG</kbd> <kbd>Tailwind</kbd> <kbd>jQuery</kbd>
+  <kbd>gRPC</kbd> <kbd>REST</kbd> <kbd>JWT</kbd> <kbd>PWA</kbd> <kbd>NPM</kbd> <kbd>ESLint</kbd>
+  <kbd>Swagger</kbd>
 </p>
 <br/>
 
@@ -57,4 +58,98 @@ image:
 
 
 ## ![Linux](https://img.shields.io/badge/-Linux-gray?style=for-the-badge)
+
+
+
+
+
+
+Apache Cordova
+Apache Tomcat
+ENV
+Adobe Illustrator
+Adobe Photoshop
+Android
+Android Studio
+Angular
+Apache Lucene
+Apache Groovy
+Apache Kafka
+Apache NetBeans IDE
+Apache Solr
+Apache Tomcat
+Atlassian
+Awesome Lists
+Babel
+Bamboo
+Bitbucket
+Chai
+Composer
+CSS
+SCSS
+CSS Wizardry
+CSS Modules
+curl
+Docker
+EditorConfig
+Electron
+Express
+Firebase
+Fluentd
+Flutter
+Git
+Go
+Google Chrome
+Gradle
+GraphQL
+GTK
+Handlebars.js
+Heroku
+HTML
+Ionic
+iOS
+JavaScript
+Jest
+Jenkins
+JSON
+Joomla
+Kali Linux
+Keystone
+Kotlin
+Kubernetes
+Let's Encrypt
+libuv
+Linux
+MariaDB
+NestJS
+Next.js
+Node.js
+Nuxt.js
+OpenStreetMap
+PHP
+Postman
+Prisma
+Qt
+RabbitMQ
+React
+Redux
+Roblox
+Rust
+Selenium
+Socket.io
+Svelte
+Swift
+Telegram
+TypeScript
+Ubuntu
+Vim
+Visual Studio Code
+Vite
+Vuetify
+Vue.js
+Vulkan
+WebAssembly
+WebGL
+Webpack
+Wireshark
 -->
