@@ -3,16 +3,16 @@
 Занимаюсь ✨🎩 веб-разработкой 🚣🏻.
 
 ### О себе и навыках:
-В ВУЗ поступил в 2015ом, окончил в 2020ом.
-С тех пор, в основоном всегда пользуюсь 🐧 Linux (Ubuntu), знаю Bash, Docker, регулярки, ...
-Реальный опыт работы с 2020го года.
-Мой основной стек:
-Backend: 🍀 **Java Spring Boot**, 📗 **Nodejs**, 🩸 **NestJS**
-Frontend:  🥝 **Vue**, 💠 **Vuetify**, 🐉 **Nuxt**
-Остальное: 🐟 Docker, 🔶 Git, 🦫 PostgreSQL, MongoDB
-Английский: A2 💪
-Делал: 📦 расшиения для chrome, 🤖 telegram-ботов, плагины для Atlassian Jira, 
-
+В ВУЗ поступил в 2015ом, окончил в 2020ом.<br/>
+С тех пор, в основоном всегда пользуюсь 🐧 Linux (Ubuntu), знаю Bash, Docker, регулярки, ...<br/>
+Реальный опыт работы с 2020го года.<br/>
+Мой основной стек:<br/>
+Backend: 🍀 **Java Spring Boot**, 📗 **Nodejs**, 🩸 **NestJS**<br/>
+Frontend:  🥝 **Vue**, 💠 **Vuetify**, 🐉 **Nuxt**<br/>
+Остальное: 🐟 Docker, 🔶 Git, 🦫 PostgreSQL, MongoDB<br/>
+Английский: A2 💪<br/>
+Делал: 📦 расшиения для chrome, 🤖 telegram-ботов, плагины для Atlassian Jira, <br/>
+<br/>
 Теги: Linux, bash, regexp, sed, awk, 
 Node.js, Express.js, JWT, NestJS, TypeScript, Cpp, Vscode, Chrome, Telegram
 Script Runner, MyGroovy, Atlassian SDK, 
@@ -34,17 +34,17 @@ Java, Spring Boot
 
 
 HTML, CSS, JavaScript, VueJS, Pinia, Vuex, Vuetify, 
-
+<br/>
 В свободное время увлекаюсь 🧊 3D моделированием, с помощью Blender, 🔮 векторным и моушн дизайном 😎
-Интересует: 🛩 Авиамоделирование, 
+Интересует: 🛩 Авиамоделирование, системное администрирование, DevOPS <br/>
+<br/>
 
 🧠
-Связатся со мной можно в телеге: @strukoff97
-Открыт 💰 взаимо-прибыльным идеям 💸 и предложениям 🤝.
+Связатся со мной можно в телеге: @strukoff97<br/>
+Открыт 💰 взаимо-прибыльным идеям 💸 и предложениям 🤝.<br/>
 ☠️
-Увлечения:
-Blender, 
-Интересует, авиамоделирование, системное администрирование, DevOPS, 
+системное администрирование, DevOPS
+ 
 ![](./assets/skills.svg)
 <!--
 ## То, что мне знакомо
