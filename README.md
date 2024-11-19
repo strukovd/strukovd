@@ -15,9 +15,20 @@ Frontend:  🥝 **Vue**, 💠 **Vuetify**, 🐉 **Nuxt**<br/>
 Остальное: 🐟 **Docker**, 🔶 **Git**, 🦫 **PostgreSQL**, **MongoDB**<br/>
 Английский: **A2** 💥💪<br/>
 Делал: расшиения для chrome 📦, telegram-ботов 🤖, плагины для Atlassian Jira 🌀<br/>
+
+![](./assets/skills.svg)
+
 <br/>
 
-$${\color{#a0a0a0} ATS-tags}$$
+В свободное время увлекаюсь 🧊 3D моделированием, с помощью Blender, 🔮 векторным и моушн дизайном 😎<br/>
+Интересует: 🛩 Авиамоделирование, ☠️ системное администрирование, 🐕‍🦺 DevOPS <br/>
+<br/>
+
+### ☎️ Контакты
+Связатся со мной можно в телеге: 👉 [@strukoff97](https://t.me/strukoff97) 👈 😌<br/>
+💰 Открыт к взаимовыгодным 💸 идеям и предложениям 🤝.<br/>
+
+$${\color{#a0a0a0} ATS…tags}$$
 <p>
   <kbd>Node.js</kbd> <kbd>NestJS</kbd> <kbd>TypeScript</kbd> <kbd>Express.js</kbd>
   <kbd>Java</kbd> <kbd>Spring Boot</kbd> <kbd>Maven</kbd> <kbd>JPA</kbd> <kbd>Hibernate</kbd> <kbd>Lombok</kbd>
@@ -36,17 +47,21 @@ $${\color{#a0a0a0} ATS-tags}$$
 </p>
 <br/>
 
-В свободное время увлекаюсь 🧊 3D моделированием, с помощью Blender, 🔮 векторным и моушн дизайном 😎<br/>
-Интересует: 🛩 Авиамоделирование, ☠️ системное администрирование, 🐕‍🦺 DevOPS <br/>
-<br/>
-
-### ☎️ Контакты
-Связатся со мной можно в телеге: 👉 [@strukoff97](https://t.me/strukoff97) 👈 😌<br/>
-💰 Открыт к взаимовыгодным 💸 идеям и предложениям 🤝.<br/>
 
 
- 
-![](./assets/skills.svg)
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!--
 ## То, что мне знакомо
 image:
