@@ -1,7 +1,8 @@
-### Привет. Я Дмитрий 👋
-Я из Бишкека 🌆<br/>
-Мне 27 🗿<br/>
-Занимаюсь ✨ веб-разработкой 🚣🏻.<br/>
+👋 Привет.<br/>
+Я веб-разработчик 🚣🏻.
+
+![](https://komarev.com/ghpvc/?username=strukovd&color=brightgreen)
+[![Dmitry profile views](https://u8views.com/api/v1/github/profiles/68727449/views/day-week-month-total-count.svg)](https://u8views.com/github/strukovd)
 
 ### 👤 О себе:
 🎓 В ВУЗ поступил в 2015ом, окончил в 2020ом.<br/>
@@ -13,7 +14,7 @@
 Backend: 🍀 **Java Spring Boot**, 📗 **Nodejs**, 🩸 **NestJS**<br/>
 Frontend:  🥝 **Vue**, 💠 **Vuetify**, 🐉 **Nuxt**<br/>
 Остальное: 🐟 **Docker**, 🔶 **Git**, 🦫 **PostgreSQL**, **MongoDB**<br/>
-Английский: **A2** 💥💪
+Английский: **A0** 💥💪
 
 ![](./assets/skills.svg)
 <br/>
