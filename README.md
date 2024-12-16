@@ -43,7 +43,7 @@ $${\color{#a0a0a0} ATS…tags}$$
 <p>
   <kbd>Node.js</kbd> <kbd>NestJS</kbd> <kbd>TypeScript</kbd> <kbd>Express.js</kbd>
   <kbd>Java</kbd> <kbd>Spring Boot</kbd> <kbd>Maven</kbd> <kbd>JPA</kbd> <kbd>Hibernate</kbd> <kbd>Lombok</kbd>
-  <kbd>VueJS</kbd> <kbd>Pinia</kbd> <kbd>Vuex</kbd> <kbd>Vuetify</kbd>
+  <kbd>VueJS</kbd> <kbd>Nuxt</kbd> <kbd>Pinia</kbd> <kbd>Vuex</kbd> <kbd>Vuetify</kbd>
   <kbd>Linux</kbd> <kbd>GNU Bash</kbd> <kbd>shell</kbd> <kbd>regexp</kbd> <kbd>ssh</kbd> <kbd>sed</kbd> <kbd>awk</kbd>
   <kbd>Vscode</kbd> <kbd>Chrome</kbd> <kbd>Telegram</kbd> <kbd>Git</kbd>
   <kbd>Jira</kbd> <kbd>Confluence</kbd> <kbd>Bitbucket</kbd>
