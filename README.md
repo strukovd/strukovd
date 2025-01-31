@@ -1,5 +1,5 @@
 👋 Привет.<br/>
-Я веб-разработчик 🚣🏻.
+Я веб-разработчик.
 
 ![](https://komarev.com/ghpvc/?username=strukovd&color=brightgreen)
 [![Dmitry profile views](https://u8views.com/api/v1/github/profiles/68727449/views/day-week-month-total-count.svg)](https://u8views.com/github/strukovd)
@@ -26,13 +26,14 @@ Frontend:  🥝 **Vue**, 💠 **Vuetify**, 🐉 **Nuxt**<br/>
 - 
 <br/>
 
-
+<!--
 ### 🍃 Чем занимаюсь сейчас и чем ⛰️ планирую заниматся
 В свободное время изучаю 🧊 3D моделирование (Blender), 🔮 векторный и моушн дизайн 😎<br/>
 Чуть позже планирую 🦧 взятся мобильную разработку 📞 <br/>
 Также, интересует 🛩 авиамоделирование, 🪨 системное администрирование, 💀 DevOPS <br/>
 `ᕙ(  •̀ ᗜ •́  )ᕗ`
 <br/>
+-->
 
 ### ☎️ Контакты
 Связатся со мной можно в телеге: 👉 [@strukoff97](https://t.me/strukoff97) 👈 😌<br/>
