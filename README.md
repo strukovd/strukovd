@@ -13,9 +13,9 @@
 
 ### 🧠 Навыки:
 Мой основной стек:<br/>
-Backend: 🍀 **Java Spring Boot**, 📗 **Nodejs**, 🩸 **NestJS**<br/>
+Backend: ☕ **Java**, 🍀 **Spring Boot**, 📗 **Nodejs**, 🩸 **NestJS**<br/>
 Frontend:  🥝 **Vue**, 💠 **Vuetify**, 🐉 **Nuxt**<br/>
-Остальное: 🐟 **Docker**, 🔶 **Git**, 🦫 **PostgreSQL**, **MongoDB**<br/>
+Остальное: 🐟 **Docker**, 🔶 **Git**, 🦫 **PostgreSQL**, 🧬 **MongoDB**<br/>
 Английский: **A0** 💥💪
 
 ![](./assets/skills.svg)
