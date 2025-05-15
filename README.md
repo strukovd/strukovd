@@ -4,15 +4,16 @@
 <!--
 👋 Привет.<br/>
 Я веб-разработчик.
+-->
 
-### 👤 О себе:
+<!--
 🎓 В ВУЗ поступил в 2015ом, окончил в 2020ом.<br/>
 В основоном пользуюсь Linux (Ubuntu) 🐧<br/>
 👷🏼 Реальный опыт работы с 2020го года.<br/>
 -->
 
-### 🧠 Навыки:
-Мой основной стек:<br/>
+## 🧠 Навыки:
+### Основной стек:<br/>
 Backend: ☕ **Java**, 🍀 **Spring Boot**, 📗 **Nodejs**, 🩸 **NestJS**<br/>
 Frontend:  🥝 **Vue**, 💠 **Vuetify**, 🐉 **Nuxt**<br/>
 Остальное: 🐟 **Docker**, 🔶 **Git**, 🦫 **PostgreSQL**, 🧬 **MongoDB**<br/>
@@ -20,6 +21,33 @@ Frontend:  🥝 **Vue**, 💠 **Vuetify**, 🐉 **Nuxt**<br/>
 
 ![](./assets/skills.svg)
 <br/>
+
+<!--
+### 👤 Личные качества:
+<table>
+  <tbody>
+    <tr style="text-align:center">
+      <td>Опыт работы в большой команде</td>
+      <td><img weight="300" src="https://videos.openai.com/vg-assets/assets%2Ftask_01jvaycv24f9ztccen6pe3krjs%2F1747345467_img_1.webp?st=2025-05-15T20%3A24%3A08Z&se=2025-05-21T21%3A24%3A08Z&sks=b&skt=2025-05-15T20%3A24%3A08Z&ske=2025-05-21T21%3A24%3A08Z&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skoid=aa5ddad1-c91a-4f0a-9aca-e20682cc8969&skv=2019-02-02&sv=2018-11-09&sr=b&sp=r&spr=https%2Chttp&sig=fdmBD4%2BjdsjnsXockUnnF3npMbaZVJdc164QV4kPMEc%3D&az=oaivgprodscus"></td>
+    </tr>
+    <tr>
+      <td><img weight="300" src="https://videos.openai.com/vg-assets/assets%2Ftask_01jvayvpzfehyasgjze88p3c6e%2F1747345952_img_1.webp?st=2025-05-15T20%3A24%3A11Z&se=2025-05-21T21%3A24%3A11Z&sks=b&skt=2025-05-15T20%3A24%3A11Z&ske=2025-05-21T21%3A24%3A11Z&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skoid=aa5ddad1-c91a-4f0a-9aca-e20682cc8969&skv=2019-02-02&sv=2018-11-09&sr=b&sp=r&spr=https%2Chttp&sig=nRQvcAwm8AqN8YYkS4aWxjGs6qH%2BpdAKDJ1NssdFqro%3D&az=oaivgprodscus"></td>
+      <td>Опытный пользователь ПК</td>
+    </tr>
+    <tr>
+      <td>На связи в любое время</td>
+      <td><img height="400" src="https://videos.openai.com/vg-assets/assets%2Ftask_01jv4wejb0ee4bf6jj52keyf0k%2F1747142107_img_1.webp?st=2025-05-15T18%3A31%3A37Z&se=2025-05-21T19%3A31%3A37Z&sks=b&skt=2025-05-15T18%3A31%3A37Z&ske=2025-05-21T19%3A31%3A37Z&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skoid=aa5ddad1-c91a-4f0a-9aca-e20682cc8969&skv=2019-02-02&sv=2018-11-09&sr=b&sp=r&spr=https%2Chttp&sig=1rdhtJHMVFrSJhK2sjcoGLulUeZ8UlpfQdLhrhhu8mg%3D&az=oaivgprodscus"></td>
+    </tr>
+    <tr>
+      <td><image weight="300" src="https://videos.openai.com/vg-assets/assets%2Ftask_01jvawkppgf5580jjjn0qj9xmz%2F1747343588_img_0.webp?st=2025-05-15T19%3A41%3A23Z&se=2025-05-21T20%3A41%3A23Z&sks=b&skt=2025-05-15T19%3A41%3A23Z&ske=2025-05-21T20%3A41%3A23Z&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skoid=aa5ddad1-c91a-4f0a-9aca-e20682cc8969&skv=2019-02-02&sv=2018-11-09&sr=b&sp=r&spr=https%2Chttp&sig=kMQHJnCOEorcZIMKILh8sVSnoPSF6okP9QvkYH7Tix0%3D&az=oaivgprodscus"></td>
+      <td>Довожу проекты до завершения</td>
+    </tr>
+  </tbody>
+</table>
+
+<br/>
+
+-->
 
 <!--
 ### ⚒️ Чем занимался
@@ -32,7 +60,6 @@ Frontend:  🥝 **Vue**, 💠 **Vuetify**, 🐉 **Nuxt**<br/>
 ### 🍃 Чем занимаюсь сейчас и чем ⛰️ планирую заниматся
 В свободное время изучаю 🧊 3D моделирование (Blender), 🔮 векторный и моушн дизайн 😎<br/>
 Чуть позже планирую 🦧 взятся мобильную разработку 📞 <br/>
-Также, интересует 🛩 авиамоделирование, 🪨 системное администрирование, 💀 DevOPS <br/>
 `ᕙ(  •̀ ᗜ •́  )ᕗ`
 <br/>
 -->
