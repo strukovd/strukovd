@@ -23,12 +23,12 @@ Frontend:  🥝 **Vue**, 💠 **Vuetify**, 🐉 **Nuxt**<br/>
 <br/>
 
 
-<!--
+
 ### 👤 Личные качества:
 <table>
   <tbody>
     <tr style="text-align:center">
-      <td><h3>$\textsf{\color{#f5750e}{Опыт работы в большой команде}}$ $\textsf{\color{#326a95}{Section A.}}$ </h3></td>
+      <td><h3>Опыт работы в большой команде</h3></td>
       <td><img src="https://videos.openai.com/vg-assets/assets%2Ftask_01jvaycv24f9ztccen6pe3krjs%2F1747345467_img_1.webp?st=2025-05-15T20%3A24%3A08Z&se=2025-05-21T21%3A24%3A08Z&sks=b&skt=2025-05-15T20%3A24%3A08Z&ske=2025-05-21T21%3A24%3A08Z&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skoid=aa5ddad1-c91a-4f0a-9aca-e20682cc8969&skv=2019-02-02&sv=2018-11-09&sr=b&sp=r&spr=https%2Chttp&sig=fdmBD4%2BjdsjnsXockUnnF3npMbaZVJdc164QV4kPMEc%3D&az=oaivgprodscus"></td>
     </tr>
     <tr>
@@ -47,7 +47,7 @@ Frontend:  🥝 **Vue**, 💠 **Vuetify**, 🐉 **Nuxt**<br/>
 </table>
 
 <br/>
--->
+
 
 
 
@@ -67,8 +67,7 @@ Frontend:  🥝 **Vue**, 💠 **Vuetify**, 🐉 **Nuxt**<br/>
 -->
 
 ### ☎️ Контакты
-Желающие предложить мне <code style="color : purple"><s>денег</s></code> работу или за бесплатно поучавствовать в моих пет-проектах
-Связатся со мной можно в телеге: 👉 [@strukoff97](https://t.me/strukoff97) 👈 😌<br/>
+Желающие предложить мне <code style="color : purple"><s>денег</s></code> работу или за бесплатно поучавствовать в моих пет-проектах, свяжитесь со мной в телеге: 👉 [@strukoff97](https://t.me/strukoff97) 👈 😌<br/>
 💰 Открыт к взаимовыгодным 💸 идеям и предложениям 🤝.<br/>
 
 
