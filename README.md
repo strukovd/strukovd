@@ -41,7 +41,7 @@ Frontend:  🥝 **Vue**, 💠 **Vuetify**, 🐉 **Nuxt**<br/>
     </tr>
     <tr>
       <td><img src="./assets/ed-norton-with-phone.webp"></td>
-      <td><h3>Доступен в любое время</h3></td>
+      <td><h3>Всегда на связи</h3></td>
     </tr>
   </tbody>
 </table>
