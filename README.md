@@ -29,18 +29,18 @@ Frontend:  🥝 **Vue**, 💠 **Vuetify**, 🐉 **Nuxt**<br/>
   <tbody>
     <tr style="text-align:center">
       <td><h3>Опыт работы в большой команде</h3></td>
-      <td><img src="https://videos.openai.com/vg-assets/assets%2Ftask_01jvaycv24f9ztccen6pe3krjs%2F1747345467_img_1.webp?st=2025-05-15T20%3A24%3A08Z&se=2025-05-21T21%3A24%3A08Z&sks=b&skt=2025-05-15T20%3A24%3A08Z&ske=2025-05-21T21%3A24%3A08Z&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skoid=aa5ddad1-c91a-4f0a-9aca-e20682cc8969&skv=2019-02-02&sv=2018-11-09&sr=b&sp=r&spr=https%2Chttp&sig=fdmBD4%2BjdsjnsXockUnnF3npMbaZVJdc164QV4kPMEc%3D&az=oaivgprodscus"></td>
+      <td><img src="./assets/galera.webp"></td>
     </tr>
     <tr>
-      <td><img src="https://videos.openai.com/vg-assets/assets%2Ftask_01jvayvpzfehyasgjze88p3c6e%2F1747345952_img_1.webp?st=2025-05-15T20%3A24%3A11Z&se=2025-05-21T21%3A24%3A11Z&sks=b&skt=2025-05-15T20%3A24%3A11Z&ske=2025-05-21T21%3A24%3A11Z&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skoid=aa5ddad1-c91a-4f0a-9aca-e20682cc8969&skv=2019-02-02&sv=2018-11-09&sr=b&sp=r&spr=https%2Chttp&sig=nRQvcAwm8AqN8YYkS4aWxjGs6qH%2BpdAKDJ1NssdFqro%3D&az=oaivgprodscus"></td>
+      <td><img src="./assets/harold-bsod.webp"></td>
       <td><h3>Уверенный пользователь ПК</h3></td>
     </tr>
     <tr>
       <td><h3>Довожу проекты до завершения</h3></td>
-      <td><image src="https://videos.openai.com/vg-assets/assets%2Ftask_01jvawkppgf5580jjjn0qj9xmz%2F1747343588_img_0.webp?st=2025-05-15T19%3A41%3A23Z&se=2025-05-21T20%3A41%3A23Z&sks=b&skt=2025-05-15T19%3A41%3A23Z&ske=2025-05-21T20%3A41%3A23Z&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skoid=aa5ddad1-c91a-4f0a-9aca-e20682cc8969&skv=2019-02-02&sv=2018-11-09&sr=b&sp=r&spr=https%2Chttp&sig=kMQHJnCOEorcZIMKILh8sVSnoPSF6okP9QvkYH7Tix0%3D&az=oaivgprodscus"></td>
+      <td><image src="./assets/docker-project.webp"></td>
     </tr>
     <tr>
-      <td><img src="https://videos.openai.com/vg-assets/assets%2Ftask_01jvb0wrjmeex9rrbe2a6cbz52%2F1747348085_img_0.webp?st=2025-05-15T21%3A15%3A13Z&se=2025-05-21T22%3A15%3A13Z&sks=b&skt=2025-05-15T21%3A15%3A13Z&ske=2025-05-21T22%3A15%3A13Z&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skoid=aa5ddad1-c91a-4f0a-9aca-e20682cc8969&skv=2019-02-02&sv=2018-11-09&sr=b&sp=r&spr=https%2Chttp&sig=6HYbMuhm5dMgCL25%2FPrb0S6JYyLT1cDSKzpc3JD6ySE%3D&az=oaivgprodscus"></td>
+      <td><img src="./assets/ed-norton-with-phone.webp"></td>
       <td><h3>Доступен в любое время</h3></td>
     </tr>
   </tbody>
