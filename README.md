@@ -1,23 +1,13 @@
 ![](https://komarev.com/ghpvc/?username=strukovd&color=brightgreen)
 [![Dmitry profile views](https://u8views.com/api/v1/github/profiles/68727449/views/day-week-month-total-count.svg)](https://u8views.com/github/strukovd)
 
-<!--
-👋 Привет.<br/>
-Я веб-разработчик.
--->
-
-<!--
-🎓 В ВУЗ поступил в 2015ом, окончил в 2020ом.<br/>
-В основоном пользуюсь Linux (Ubuntu) 🐧<br/>
-👷🏼 Реальный опыт работы с 2020го года.<br/>
--->
 
 ## 🧠 Навыки:
 ### Основной стек:<br/>
-Backend: ☕ **Java**, 🍀 **Spring Boot**, 📗 **Nodejs**, 🩸 **NestJS**<br/>
-Frontend:  🥝 **Vue**, 💠 **Vuetify**, 🐉 **Nuxt**<br/>
-Остальное: 🐟 **Docker**, 🔶 **Git**, 🦫 **PostgreSQL**, 🧬 **MongoDB**<br/>
-Английский: **A0** 💥💪
+Backend: <img height="14px" src="./assets/java.svg"> **Java**, <img height="14px" src="./assets/spring.svg"> **Spring Boot**, <img height="28px" src="./assets/nodejs.svg"> **Nodejs**, <img height="14px" src="./assets/spring.svg"> **NestJS**<br/>
+Frontend: <img height="14px" src="./assets/vue.svg"> **Vue**, <img height="14px" src="./assets/vuetify.svg"> **Vuetify**, <img height="14px" src="./assets/nuxt.svg"> **Nuxt**<br/>
+Прочее: <img height="14px" src="./assets/docker.svg"> **Docker**, <img height="14px" src="./assets/git.svg"> **Git**, <img height="14px" src="./assets/postgresql.svg"> **PostgreSQL**, <img height="14px" src="./assets/mongo.svg"> **MongoDB**<br/>
+Языки: 🇷🇺: Native, 🇺🇸: **A2**
 
 ![](./assets/skills.svg)
 <br/>
@@ -27,21 +17,21 @@ Frontend:  🥝 **Vue**, 💠 **Vuetify**, 🐉 **Nuxt**<br/>
 ### 👤 Личные качества:
 <table>
   <tbody>
-    <tr style="text-align:center">
-      <td><h3>Опыт работы в большой команде</h3></td>
-      <td><img src="./assets/galera.webp"></td>
-    </tr>
     <tr>
+      <td style="text-align:center"><h1>🙌</h1><h3>Уверенный пользователь ПК<br>🔌💾📈🧠</h3></td>
       <td><img src="./assets/harold-bsod.webp"></td>
-      <td><h3>Уверенный пользователь ПК</h3></td>
     </tr>
-    <tr>
-      <td><h3>Довожу проекты до завершения</h3></td>
-      <td><image src="./assets/docker-project.webp"></td>
+    <tr style="text-align:center">
+      <td><img src="./assets/galera.webp"></td>
+      <td><h1>🤝</h1><h3>Опыт работы в большой команде<br/>𐦂𖨆𐀪𖠋𐀪𐀪</h3></td>
     </tr>
-    <tr>
-      <td><img src="./assets/ed-norton-with-phone.webp"></td>
-      <td><h3>Доступен в любое время</h3></td>
+    <tr style="text-align:center">
+      <td><h1>⚡</h1><h3>Опыт завершения проектов<br>💪🎉🏅</h3></td>
+      <td><image src="./assets/docker-project-2.webp"></td>
+    </tr>
+    <tr style="text-align:center">
+      <td><img src="./assets/ed-norton.webp"></td>
+      <td><h1>🤙</h1><h3>Доступен в любое время<br>📞😎🦉🌘💤</h3></td>
     </tr>
   </tbody>
 </table>
