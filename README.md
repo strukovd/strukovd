@@ -39,7 +39,7 @@ Frontend: <img height="14px" src="./assets/vue.svg"> **Vue**, <img height="14px"
     </tr>
     <tr align="center">
       <td><img src="./assets/ed-norton.webp"></td>
-      <td><h1>🤙</h1><h3>Доступен в любое время<br>💤</h3></td>
+      <td><h1>🤙</h1><h3>Всегда на связи<br>💤</h3></td>
     </tr>
   </tbody>
 </table>
