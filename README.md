@@ -18,20 +18,28 @@ Frontend: <img height="14px" src="./assets/vue.svg"> **Vue**, <img height="14px"
 <table>
   <tbody>
     <tr>
-      <td align="center"><h1>🙌</h1><h3>Уверенный пользователь ПК<br>🔌💾📈🧠</h3></td>
+      <td align="center"><h1>🙌</h1><h3>Уверенный пользователь ПК<br>🔌</h3></td>
       <td><img src="./assets/harold-bsod.webp"></td>
     </tr>
     <tr align="center">
       <td><img src="./assets/galera.webp"></td>
       <td><h1>🤝</h1><h3>Опыт работы в большой команде<br/>𐦂𖨆𐀪𖠋𐀪𐀪</h3></td>
     </tr>
+	<tr align="center">
+      <td><h1>☝️</h1><h3>Подхожу к работе с ответсвенностью<br>💼</h3></td>
+      <td><image src="./assets/call_in_pants.webp"></td>
+    </tr>
+	<tr align="center">
+      <td><img src="./assets/deadline_and_like.webp"></td>
+      <td><h1>💰</h1><h3>Не гонясь за прибылью, работаю на результат<br>📉</h3></td>
+    </tr>
     <tr align="center">
-      <td><h1>⚡</h1><h3>Опыт завершения проектов<br>💪🎉🏅</h3></td>
+      <td><h1>💪</h1><h3>Профессионально довожу проекты до завершения<br>⚡</h3></td>
       <td><image src="./assets/docker-project-2.webp"></td>
     </tr>
     <tr align="center">
       <td><img src="./assets/ed-norton.webp"></td>
-      <td><h1>🤙</h1><h3>Доступен в любое время<br>📞😎🦉🌘💤</h3></td>
+      <td><h1>🤙</h1><h3>Доступен в любое время<br>💤</h3></td>
     </tr>
   </tbody>
 </table>
