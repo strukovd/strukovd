@@ -4,9 +4,9 @@
 
 ## 🧠 Навыки:
 ### Основной стек:<br/>
-Backend: <img height="14px" src="./assets/java.svg"> **Java**, <img height="14px" src="./assets/spring.svg"> **Spring Boot**, <img height="28px" src="./assets/nodejs.svg"> **Nodejs**, <img height="14px" src="./assets/spring.svg"> **NestJS**<br/>
-Frontend: <img height="14px" src="./assets/vue.svg"> **Vue**, <img height="14px" src="./assets/vuetify.svg"> **Vuetify**, <img height="14px" src="./assets/nuxt.svg"> **Nuxt**<br/>
-Прочее: <img height="14px" src="./assets/docker.svg"> **Docker**, <img height="14px" src="./assets/git.svg"> **Git**, <img height="14px" src="./assets/postgresql.svg"> **PostgreSQL**, <img height="14px" src="./assets/mongo.svg"> **MongoDB**<br/>
+Backend: <img height="14px" src="./assets/icons/java.svg"> **Java**, <img height="14px" src="./assets/icons/spring.svg"> **Spring Boot**, <img height="28px" src="./assets/icons/nodejs.svg"> **Nodejs**, <img height="14px" src="./assets/icons/nestjs.svg"> **NestJS**<br/>
+Frontend: <img height="14px" src="./assets/icons/vue.svg"> **Vue**, <img height="14px" src="./assets/icons/vuetify.svg"> **Vuetify**, <img height="14px" src="./assets/icons/nuxt.svg"> **Nuxt**<br/>
+Прочее: <img height="14px" src="./assets/icons/docker.svg"> **Docker**, <img height="14px" src="./assets/icons/git.svg"> **Git**, <img height="14px" src="./assets/icons/postgresql.svg"> **PostgreSQL**, <img height="14px" src="./assets/icons/mongo.svg"> **MongoDB**<br/>
 Языки: 🇷🇺: Native, 🇺🇸: **A2**
 
 ![](./assets/skills.svg)
@@ -63,19 +63,61 @@ Frontend: <img height="14px" src="./assets/vue.svg"> **Vue**, <img height="14px"
 
 $${\color{#a0a0a0} ATS…tags}$$
 <p>
-  <kbd>Node.js</kbd> <kbd>NestJS</kbd> <kbd>TypeScript</kbd> <kbd>Express.js</kbd>
-  <kbd>Java</kbd> <kbd>Spring Boot</kbd> <kbd>Maven</kbd> <kbd>Jackson</kbd> <kbd>JPA</kbd> <kbd>Hibernate</kbd> <kbd>Lombok</kbd> <kbd>MapStruct</kbd>
-  <kbd>VueJS</kbd> <kbd>Nuxt</kbd> <kbd>Pinia</kbd> <kbd>Vuex</kbd> <kbd>Vuetify</kbd>
-  <kbd>Linux</kbd> <kbd>GNU Bash</kbd> <kbd>shell</kbd> <kbd>regexp</kbd> <kbd>ssh</kbd> <kbd>sed</kbd> <kbd>awk</kbd>
-  <kbd>Vscode</kbd> <kbd>Chrome</kbd> <kbd>Telegram</kbd> <kbd>Git</kbd>
-  <kbd>Jira</kbd> <kbd>Confluence</kbd> <kbd>Bitbucket</kbd>
-  <kbd>Script Runner</kbd> <kbd>MyGroovy</kbd> <kbd>Atlassian SDK</kbd>
-  <kbd>SQL</kbd> <kbd>MSSQL</kbd> <kbd>Microsoft SQL Server</kbd> <kbd>Transact-SQL</kbd> <kbd>PostgreSQL</kbd> <kbd>MySQL</kbd> <kbd>SQLite</kbd>
-  <kbd>ORM</kbd> <kbd>MongoDB</kbd>
-  <kbd>Docker</kbd> <kbd>Grafana</kbd> <kbd>NGINX</kbd>
-  <kbd>PHP</kbd> <kbd>Laravel</kbd>
-  <kbd>HTML5</kbd> <kbd>CSS3</kbd> <kbd>SCSS</kbd> <kbd>SVG</kbd> <kbd>Tailwind</kbd> <kbd>jQuery</kbd>
-  <kbd>gRPC</kbd> <kbd>REST</kbd> <kbd>JWT</kbd> <kbd>PWA</kbd> <kbd>NPM</kbd> <kbd>ESLint</kbd>
+  <kbd><img height="8" src="./assets/icons/java.svg"> Java</kbd>
+  <kbd><img height="8" src="./assets/icons/springboot.svg"> Spring Boot</kbd>
+  <kbd><img height="8" src="./assets/icons/maven.svg"> Maven</kbd>
+  <kbd>Jackson</kbd>
+  <kbd>JPA</kbd>
+  <kbd><img height="8" src="./assets/icons/hibernate.svg"> Hibernate</kbd>
+  <kbd><img height="8" src="./assets/icons/lombok.svg"> Lombok</kbd>
+  <kbd>MapStruct</kbd>
+  <kbd><img height="8" src="./assets/icons/node.svg"> Node.js</kbd>
+  <kbd><img height="8" src="./assets/icons/nestjs.svg"> NestJS</kbd>
+  <kbd><img height="8" src="./assets/icons/ts.svg"> TypeScript</kbd>
+  <kbd>Express.js</kbd>
+  <kbd><img height="8" src="./assets/icons/vue.svg"> VueJS</kbd>
+  <kbd><img height="8" src="./assets/icons/nuxt.svg"> Nuxt</kbd> <kbd>Pinia</kbd> <kbd>Vuex</kbd> <kbd>Vuetify</kbd>
+  <kbd>Linux</kbd>
+  <kbd><img height="8" src="./assets/icons/bash.svg"> GNU Bash</kbd>
+  <kbd>shell</kbd>
+  <kbd>regexp</kbd>
+  <kbd>ssh</kbd>
+  <kbd>sed</kbd>
+  <kbd>awk</kbd>
+  <kbd>Vscode</kbd>
+  <kbd><img height="8" src="./assets/icons/chrome.svg"> Chrome Extensions</kbd>
+  <kbd>Telegram Bots</kbd>
+  <kbd><img height="8" src="./assets/icons/git.svg"> Git</kbd>
+  <kbd>Jira</kbd>
+  <kbd>Confluence</kbd>
+  <kbd>Bitbucket</kbd>
+  <kbd>Script Runner</kbd>
+  <kbd>MyGroovy</kbd>
+  <kbd>Atlassian SDK</kbd>
+  <kbd>SQL</kbd>
+  <kbd>MSSQL</kbd>
+  <kbd>Microsoft SQL Server</kbd>
+  <kbd>Transact-SQL</kbd>
+  <kbd>PostgreSQL</kbd>
+  <kbd>MySQL</kbd>
+  <kbd>SQLite</kbd>
+  <kbd>ORM</kbd>
+  <kbd>MongoDB</kbd>
+  <kbd>Docker</kbd>
+  <kbd>Grafana</kbd>
+  <kbd>NGINX</kbd>
+  <kbd>Laravel</kbd>
+  <kbd>HTML5</kbd>
+  <kbd>CSS3</kbd>
+  <kbd>SCSS</kbd>
+  <kbd>Tailwind</kbd>
+  <kbd>jQuery</kbd>
+  <kbd>gRPC</kbd>
+  <kbd>REST</kbd>
+  <kbd>JWT</kbd>
+  <kbd>PWA</kbd>
+  <kbd>NPM</kbd>
+  <kbd>ESLint</kbd>
   <kbd>Swagger</kbd>
 </p>
 <br/>
