@@ -7,14 +7,14 @@
 Backend: <img height="14px" src="./assets/icons/java.svg"> **Java**, <img height="14px" src="./assets/icons/spring.svg"> **Spring Boot**, <img height="28px" src="./assets/icons/nodejs.svg"> **Nodejs**, <img height="14px" src="./assets/icons/nestjs.svg"> **NestJS**<br/>
 Frontend: <img height="14px" src="./assets/icons/vue.svg"> **Vue**, <img height="14px" src="./assets/icons/vuetify.svg"> **Vuetify**, <img height="14px" src="./assets/icons/nuxt.svg"> **Nuxt**<br/>
 Прочее: <img height="14px" src="./assets/icons/docker.svg"> **Docker**, <img height="14px" src="./assets/icons/git.svg"> **Git**, <img height="14px" src="./assets/icons/postgresql.svg"> **PostgreSQL**, <img height="14px" src="./assets/icons/mongo.svg"> **MongoDB**<br/>
-Языки: 🇷🇺: Native, 🇺🇸: **A2**
+Языки: 🇷🇺: Родной, 🇺🇸: **A2**
 
 ![](./assets/skills.svg)
 <br/>
 
 
 
-### 🤗 Личные качества:
+### 🕵🏻‍♀️ Личные качества:
 <table>
   <tbody>
     <tr>
