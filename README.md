@@ -25,21 +25,17 @@ Frontend: <img height="14px" src="./assets/icons/vue.svg"> **Vue**, <img height=
       <td><img src="./assets/galera.webp"></td>
       <td><h1>🤝</h1><h3>Опыт работы в большой команде<br/>𐦂𖨆𐀪𖠋𐀪𐀪</h3></td>
     </tr>
-	<tr align="center">
+    <tr align="center">
       <td><h1>☝️</h1><h3>Подхожу к работе с ответсвенностью</h3></td>
-      <td><image src="./assets/call_in_pants.webp"></td>
-    </tr>
-	<tr align="center">
       <td><img src="./assets/deadline_and_like.webp"></td>
-      <td><h1>💰</h1><h3>Не гонясь за прибылью, работаю на результат</h3></td>
     </tr>
     <tr align="center">
-      <td><h1>💪</h1><h3>Профессионально довожу проекты до завершения</h3></td>
       <td><image src="./assets/docker-project-2.webp"></td>
+      <td><h1>💪</h1><h3>Довожу проекты до завершения</h3></td>
     </tr>
     <tr align="center">
-      <td><img src="./assets/ed-norton.webp"></td>
       <td><h1>🤙</h1><h3>Всегда на связи</h3></td>
+      <td><img src="./assets/ed-norton.webp"></td>
     </tr>
   </tbody>
 </table>
