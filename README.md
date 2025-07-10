@@ -59,31 +59,34 @@ Frontend: <img height="14px" src="./assets/icons/vue.svg"> **Vue**, <img height=
 
 $${\color{#a0a0a0} ATS…tags}$$
 <p>
-  <kbd><img height="8" src="./assets/icons/java.svg"> Java</kbd>
-  <kbd><img height="8" src="./assets/icons/springboot.svg"> Spring Boot</kbd>
-  <kbd><img height="8" src="./assets/icons/maven.svg"> Maven</kbd>
+  <kbd><span><img src="./assets/icons/java.svg" style="height:10px;"> Java</span></kbd>
+  <kbd><span><img src="./assets/icons/springboot.svg" style="height:10px;"> Spring Boot</span></kbd>
+  <kbd><span><img src="./assets/icons/maven.svg" style="height:10px;"> Maven</span></kbd>
   <kbd>Jackson</kbd>
   <kbd>JPA</kbd>
-  <kbd><img height="8" src="./assets/icons/hibernate.svg"> Hibernate</kbd>
-  <kbd><img height="8" src="./assets/icons/lombok.svg"> Lombok</kbd>
+  <kbd><span><img src="./assets/icons/hibernate.svg" style="height:10px;"> Hibernate</span></kbd>
+  <kbd><span><img src="./assets/icons/lombok.svg" style="height:10px;"> Lombok</span></kbd>
   <kbd>MapStruct</kbd>
-  <kbd><img height="8" src="./assets/icons/node.svg"> Node.js</kbd>
-  <kbd><img height="8" src="./assets/icons/nestjs.svg"> NestJS</kbd>
-  <kbd><img height="8" src="./assets/icons/ts.svg"> TypeScript</kbd>
+  <kbd><span><img src="./assets/icons/node.svg" style="height:10px;"> Node.js</span></kbd>
+  <kbd><span><img src="./assets/icons/nestjs.svg" style="height:10px;"> NestJS</span></kbd>
+  <kbd><span><img src="./assets/icons/ts.svg" style="height:10px;"> TypeScript</span></kbd>
   <kbd>Express.js</kbd>
-  <kbd><img height="8" src="./assets/icons/vue.svg"> VueJS</kbd>
-  <kbd><img height="8" src="./assets/icons/nuxt.svg"> Nuxt</kbd> <kbd>Pinia</kbd> <kbd>Vuex</kbd> <kbd>Vuetify</kbd>
+  <kbd><span><img src="./assets/icons/vue.svg" style="height:10px;"> VueJS</span></kbd>
+  <kbd><span><img src="./assets/icons/nuxt.svg" style="height:10px;"> Nuxt</span></kbd>
+  <kbd>Pinia</kbd>
+  <kbd>Vuex</kbd>
+  <kbd><span><img src="./assets/icons/vuetify.svg" style="height:10px;"> Vuetify</span></kbd>
   <kbd>Linux</kbd>
-  <kbd><img height="8" src="./assets/icons/bash.svg"> GNU Bash</kbd>
+  <kbd><span><img src="./assets/icons/bash.svg" style="height:10px;"> GNU Bash</span></kbd>
   <kbd>shell</kbd>
   <kbd>regexp</kbd>
   <kbd>ssh</kbd>
   <kbd>sed</kbd>
   <kbd>awk</kbd>
   <kbd>Vscode</kbd>
-  <kbd><img height="8" src="./assets/icons/chrome.svg"> Chrome Extensions</kbd>
+  <kbd><span><img src="./assets/icons/chrome.svg" style="height:10px;"> Chrome Extensions</span></kbd>
   <kbd>Telegram Bots</kbd>
-  <kbd><img height="8" src="./assets/icons/git.svg"> Git</kbd>
+  <kbd><span><img src="./assets/icons/git.svg" style="height:10px;"> Git</span></kbd>
   <kbd>Jira</kbd>
   <kbd>Confluence</kbd>
   <kbd>Bitbucket</kbd>
