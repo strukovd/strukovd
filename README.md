@@ -9,9 +9,10 @@ Frontend: <img height="14px" src="./assets/icons/vue.svg"> **Vue**, <img height=
 Прочее: <img height="14px" src="./assets/icons/docker.svg"> **Docker**, <img height="14px" src="./assets/icons/git.svg"> **Git**, <img height="14px" src="./assets/icons/postgresql.svg"> **PostgreSQL**, <img height="14px" src="./assets/icons/mongo.svg"> **MongoDB**<br/>
 Языки: 🇷🇺: Родной, 🇺🇸: **A2**
 
+<!--
 ![](./assets/skills.svg)
 <br/>
-
+-->
 
 
 ### 🕵🏻‍♀️ Личные качества:
