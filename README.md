@@ -4,7 +4,7 @@
 
 ## 🧠 Навыки:
 ### Основной стек:<br/>
-Backend: <img height="14px" src="./assets/icons/java.svg"> **Java**, <img height="14px" src="./assets/icons/spring.svg"> **Spring Boot**, <img height="28px" src="./assets/icons/nodejs.svg"> **Nodejs**, <img height="14px" src="./assets/icons/nestjs.svg"> **NestJS**<br/>
+Backend: <img height="14px" src="./assets/icons/java.svg"> **Java**, <img height="14px" src="./assets/icons/spring.svg"> **Spring Boot**, <img height="14px" src="./assets/icons/ts.svg"> **TypeScript**, <img height="14px" src="./assets/icons/nestjs.svg"> **NestJS**<br/>
 Frontend: <img height="14px" src="./assets/icons/vue.svg"> **Vue**, <img height="14px" src="./assets/icons/vuetify.svg"> **Vuetify**, <img height="14px" src="./assets/icons/nuxt.svg"> **Nuxt**<br/>
 Прочее: <img height="14px" src="./assets/icons/docker.svg"> **Docker**, <img height="14px" src="./assets/icons/git.svg"> **Git**, <img height="14px" src="./assets/icons/postgresql.svg"> **PostgreSQL**, <img height="14px" src="./assets/icons/mongo.svg"> **MongoDB**<br/>
 Языки: 🇷🇺: Родной, 🇺🇸: **A2**
