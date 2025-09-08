@@ -14,7 +14,7 @@ Frontend: <img height="14px" src="./assets/icons/vue.svg"> **Vue**, <img height=
 <br/>
 -->
 
-
+<!--
 ### 🕵🏻‍♀️ Личные качества:
 <table>
   <tbody>
@@ -42,6 +42,7 @@ Frontend: <img height="14px" src="./assets/icons/vue.svg"> **Vue**, <img height=
 </table>
 
 <br/>
+-->
 
 
 
