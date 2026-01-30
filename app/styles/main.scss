@@ -1,0 +1,21 @@
+:root {
+	.gradient-text {
+		color:transparent;
+		background-clip: text;
+		// background-image: linear-gradient(to right, #93c5fd, #60a5fa, #bfdbfe);
+		background-image: linear-gradient(to right, #96a4eb, #7cbdee, #83e3f0);
+		-webkit-background-clip: text;
+		-webkit-text-fill-color: transparent;
+	}
+
+	.points-background {
+		background-image: radial-gradient(rgba(255, 255, 255, 0.06) 1px, transparent 1px);
+		background-size: 6px 6px;
+	}
+}
+
+
+body {
+	min-height: 100vh;
+	background: radial-gradient(#303644, #232733, #141622);
+}
