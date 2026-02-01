@@ -1,4 +1,7 @@
 :root {
+	color-scheme: dark light;
+	font-size: 16px;
+
 	.gradient-text {
 		color:transparent;
 		background-clip: text;
@@ -14,8 +17,34 @@
 	}
 }
 
+h1 {
+	/* Минимум 2rem, растет вместе с экраном, максимум 5rem */
+	font-size: clamp(2rem, 5vw + 1rem, 5rem);
+}
 
-body {
-	min-height: 100vh;
-	background: radial-gradient(#303644, #232733, #141622);
+
+@media (prefers-reduced-motion: no-preference) {
+	html {
+		scroll-behavior: smooth; // Плавная прокрутка
+	}
+}
+@media (prefers-reduced-motion: reduce) {
+	* {
+		animation-duration: 0.01ms !important;
+		transition-duration: 0.01ms !important;
+	}
+}
+
+@media (prefers-color-scheme: dark) {
+	:root {
+		--bg-color: #121212;
+		--text-color: #ffffff;
+	}
+
+	body {
+		font-family: sans-serif;
+		margin: 0;
+		min-height: 100vh;
+		background: radial-gradient(#303644, #232733, #141622);
+	}
 }
