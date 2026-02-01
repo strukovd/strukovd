@@ -107,6 +107,9 @@ $${\color{#a0a0a0} ATS…tags}$$
   <kbd>Docker</kbd>
   <kbd>Grafana</kbd>
   <kbd>NGINX</kbd>
+  <kbd>PM2</kbd>
+  <kbd>Certbot</kbd>
+  <kbd>acme.sh</kbd>
   <kbd>Laravel</kbd>
   <kbd>HTML5</kbd>
   <kbd>CSS3</kbd>
